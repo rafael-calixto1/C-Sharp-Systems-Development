@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\vendas\Listass\bin\Debug\Listass.exe.config
+C:\Users\Aluno\Desktop\vendas\Listass\bin\Debug\Listass.exe
+C:\Users\Aluno\Desktop\vendas\Listass\bin\Debug\Listass.pdb
+C:\Users\Aluno\Desktop\vendas\Listass\obj\Debug\Listass.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\vendas\Listass\obj\Debug\Listass.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\vendas\Listass\obj\Debug\Listass.exe
+C:\Users\Aluno\Desktop\vendas\Listass\obj\Debug\Listass.pdb

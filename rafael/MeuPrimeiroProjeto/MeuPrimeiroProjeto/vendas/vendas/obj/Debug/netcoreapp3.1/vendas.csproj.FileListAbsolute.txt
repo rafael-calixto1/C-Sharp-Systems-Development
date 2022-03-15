@@ -1,0 +1,14 @@
+C:\Users\Aluno\Desktop\vendas\vendas\bin\Debug\netcoreapp3.1\vendas.exe
+C:\Users\Aluno\Desktop\vendas\vendas\bin\Debug\netcoreapp3.1\vendas.deps.json
+C:\Users\Aluno\Desktop\vendas\vendas\bin\Debug\netcoreapp3.1\vendas.runtimeconfig.json
+C:\Users\Aluno\Desktop\vendas\vendas\bin\Debug\netcoreapp3.1\vendas.runtimeconfig.dev.json
+C:\Users\Aluno\Desktop\vendas\vendas\bin\Debug\netcoreapp3.1\vendas.dll
+C:\Users\Aluno\Desktop\vendas\vendas\bin\Debug\netcoreapp3.1\vendas.pdb
+C:\Users\Aluno\Desktop\vendas\vendas\obj\Debug\netcoreapp3.1\vendas.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\vendas\vendas\obj\Debug\netcoreapp3.1\vendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\vendas\vendas\obj\Debug\netcoreapp3.1\vendas.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\vendas\vendas\obj\Debug\netcoreapp3.1\vendas.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\vendas\vendas\obj\Debug\netcoreapp3.1\vendas.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\vendas\vendas\obj\Debug\netcoreapp3.1\vendas.dll
+C:\Users\Aluno\Desktop\vendas\vendas\obj\Debug\netcoreapp3.1\vendas.pdb
+C:\Users\Aluno\Desktop\vendas\vendas\obj\Debug\netcoreapp3.1\vendas.genruntimeconfig.cache
