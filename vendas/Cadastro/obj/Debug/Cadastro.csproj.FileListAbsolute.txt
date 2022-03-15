@@ -1,0 +1,2 @@
+C:\Users\Aluno\Desktop\vendas\Cadastro\obj\Debug\Cadastro.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\vendas\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
