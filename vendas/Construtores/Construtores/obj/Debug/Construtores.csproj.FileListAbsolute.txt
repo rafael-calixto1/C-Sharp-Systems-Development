@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\C-Sharp-Systems-Development-main\Construtores\Construtores\bin\Debug\Construtores.exe.config
+C:\Users\Aluno\Desktop\C-Sharp-Systems-Development-main\Construtores\Construtores\bin\Debug\Construtores.exe
+C:\Users\Aluno\Desktop\C-Sharp-Systems-Development-main\Construtores\Construtores\bin\Debug\Construtores.pdb
+C:\Users\Aluno\Desktop\C-Sharp-Systems-Development-main\Construtores\Construtores\obj\Debug\Construtores.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\C-Sharp-Systems-Development-main\Construtores\Construtores\obj\Debug\Construtores.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\C-Sharp-Systems-Development-main\Construtores\Construtores\obj\Debug\Construtores.exe
+C:\Users\Aluno\Desktop\C-Sharp-Systems-Development-main\Construtores\Construtores\obj\Debug\Construtores.pdb

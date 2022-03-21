@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\C-Sharp-Systems-Development-main\Construtores\Execicio1\bin\Debug\Execicio1.exe.config
+C:\Users\Aluno\Desktop\C-Sharp-Systems-Development-main\Construtores\Execicio1\bin\Debug\Execicio1.exe
+C:\Users\Aluno\Desktop\C-Sharp-Systems-Development-main\Construtores\Execicio1\bin\Debug\Execicio1.pdb
+C:\Users\Aluno\Desktop\C-Sharp-Systems-Development-main\Construtores\Execicio1\obj\Debug\Execicio1.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\C-Sharp-Systems-Development-main\Construtores\Execicio1\obj\Debug\Execicio1.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\C-Sharp-Systems-Development-main\Construtores\Execicio1\obj\Debug\Execicio1.exe
+C:\Users\Aluno\Desktop\C-Sharp-Systems-Development-main\Construtores\Execicio1\obj\Debug\Execicio1.pdb
