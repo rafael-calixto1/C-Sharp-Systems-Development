@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\Encapsulamento2\Encapsulamento2\bin\Debug\Encapsulamento2.exe.config
+C:\Users\Aluno\Desktop\Encapsulamento2\Encapsulamento2\bin\Debug\Encapsulamento2.exe
+C:\Users\Aluno\Desktop\Encapsulamento2\Encapsulamento2\bin\Debug\Encapsulamento2.pdb
+C:\Users\Aluno\Desktop\Encapsulamento2\Encapsulamento2\obj\Debug\Encapsulamento2.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Encapsulamento2\Encapsulamento2\obj\Debug\Encapsulamento2.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Encapsulamento2\Encapsulamento2\obj\Debug\Encapsulamento2.exe
+C:\Users\Aluno\Desktop\Encapsulamento2\Encapsulamento2\obj\Debug\Encapsulamento2.pdb
