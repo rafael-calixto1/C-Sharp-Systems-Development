@@ -22,8 +22,9 @@ namespace Exercicio1
             //double Altura;
             //double Base;
 
-
-            Quadrado quad = new Quadrado();
+            
+            Quadrado quad = new Quadrado(3, EnumCor.Amarelo, EnumTipo.Quadrado);
+            Quadrado quad2 = new Quadrado(5, EnumCor.Azul, EnumTipo.Quadrado);
             quad.Cor = EnumCor.Azul;
             quad.Tipo = EnumTipo.Quadrado;
         }

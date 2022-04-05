@@ -10,5 +10,16 @@ namespace Exercicio1
     {
         public EnumCor Cor { get; set; }
         public EnumTipo Tipo { get; set; }
+
+        public Forma(EnumCor cor, EnumCor tipo)
+        {
+        }
+
+        public Forma(EnumCor cor, EnumTipo tipo)
+        {
+
+            Cor = cor;
+            Tipo = tipo;
+        }
     }
 }

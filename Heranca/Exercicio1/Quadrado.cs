@@ -10,5 +10,10 @@ namespace Exercicio1
     {
         public double lado { get; set; }
 
+
+        public Quadrado(double lado, EnumCor cor, EnumCor tipo) : base(cor, tipo)
+        {
+            this.lado = lado;
+        }
     }
 }
