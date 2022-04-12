@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\aulaDS\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\aulaDS\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\aulaDS\Polimorfismo\Polimorfismo\bin\Debug\Polimorfismo.exe.config
+C:\Users\Aluno\Desktop\aulaDS\Polimorfismo\Polimorfismo\bin\Debug\Polimorfismo.exe
+C:\Users\Aluno\Desktop\aulaDS\Polimorfismo\Polimorfismo\bin\Debug\Polimorfismo.pdb
+C:\Users\Aluno\Desktop\aulaDS\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.exe
+C:\Users\Aluno\Desktop\aulaDS\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.pdb

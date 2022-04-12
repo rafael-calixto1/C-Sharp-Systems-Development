@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorfismo", "Polimorfismo\Polimorfismo.csproj", "{1C597273-7263-4010-8A00-E96CB526B5CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstracao", "Abstracao\Abstracao.csproj", "{1D36626B-5796-4DC4-B43B-223314D62B9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Banco", "Banco\Banco.csproj", "{22A3FA09-5648-4C2D-AA26-56CD677A982B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C597273-7263-4010-8A00-E96CB526B5CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C597273-7263-4010-8A00-E96CB526B5CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C597273-7263-4010-8A00-E96CB526B5CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C597273-7263-4010-8A00-E96CB526B5CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D36626B-5796-4DC4-B43B-223314D62B9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D36626B-5796-4DC4-B43B-223314D62B9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D36626B-5796-4DC4-B43B-223314D62B9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D36626B-5796-4DC4-B43B-223314D62B9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22A3FA09-5648-4C2D-AA26-56CD677A982B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A3FA09-5648-4C2D-AA26-56CD677A982B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A3FA09-5648-4C2D-AA26-56CD677A982B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A3FA09-5648-4C2D-AA26-56CD677A982B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC8767FC-1C83-43D0-9C86-1D9B6ED146A8}
+	EndGlobalSection
+EndGlobal
