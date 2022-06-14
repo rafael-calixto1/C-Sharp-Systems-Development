@@ -1,0 +1,10 @@
+C:\Users\Aluno\Desktop\CalcSimples\CalcSimples\bin\Debug\CalcSimples.exe.config
+C:\Users\Aluno\Desktop\CalcSimples\CalcSimples\bin\Debug\CalcSimples.exe
+C:\Users\Aluno\Desktop\CalcSimples\CalcSimples\bin\Debug\CalcSimples.pdb
+C:\Users\Aluno\Desktop\CalcSimples\CalcSimples\obj\Debug\CalcSimples.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\CalcSimples\CalcSimples\obj\Debug\CalcSimples.frmCalculadora.resources
+C:\Users\Aluno\Desktop\CalcSimples\CalcSimples\obj\Debug\CalcSimples.Properties.Resources.resources
+C:\Users\Aluno\Desktop\CalcSimples\CalcSimples\obj\Debug\CalcSimples.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\CalcSimples\CalcSimples\obj\Debug\CalcSimples.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\CalcSimples\CalcSimples\obj\Debug\CalcSimples.exe
+C:\Users\Aluno\Desktop\CalcSimples\CalcSimples\obj\Debug\CalcSimples.pdb
