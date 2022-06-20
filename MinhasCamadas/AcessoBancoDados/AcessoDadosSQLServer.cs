@@ -3,21 +3,19 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-//Importat Bibliotecas de Banco de Dados
+//Importar Bibliotecas de Banco de Dados
 using System.Data;
 using System.Data.SqlClient;
 using AcessoBancoDados.Properties;
-
-
 
 namespace AcessoBancoDados
 {
     public class AcessoDadosSQLServer
     {
-        //Cliar a conexão com o BD
+        //Criar a conexão com o BD
         private SqlConnection CriarConexao()
         {
-            return new SqlConnection(Settings.Default.StringConection);
+            return new SqlConnection(Settings.Default.StringConnection);
         }
 
         //Parâmetros para o BD
@@ -34,7 +32,7 @@ namespace AcessoBancoDados
         }
 
         //Preencher os dados da SqlCommand - Manipulação
-        private SqlCommand PreencherSqlCommad(CommandType commandType, string minhaUSP)
+        private SqlCommand PreencherSqlCommand(CommandType commandType, string minhaUSP)
         {
             try
             {
@@ -45,63 +43,58 @@ namespace AcessoBancoDados
                 SqlCommand sqlCommand = sqlConnection.CreateCommand();
                 sqlCommand.CommandType = commandType;
                 sqlCommand.CommandText = minhaUSP;
-                //Definir o tempo de excução deses comandos(segidos)
+                //Definir o tempo de excução desses comandos (segundos)
                 sqlCommand.CommandTimeout = 3600;
-                //Adicionar os parâmetros dentro da sqlCommand
-                foreach(SqlParameter item in sqlParameterCollection)
+                //Adicionar os parâmetros dentro da sqlcommand
+                foreach (SqlParameter item in sqlParameterCollection)
                 {
                     sqlCommand.Parameters.Add(new SqlParameter(item.ParameterName, item.Value));
                 }
-                return sqlCommand;
 
+                return sqlCommand;
             }
             catch (Exception ex)
             {
-                //Disparar um novo evendto de exeção para ser utilizada na camada superior
+                //Disparar um novo evento de exceção para ser utilizada na camada superior
                 //O formato de saída é diferente
                 throw new Exception(ex.Message);
             }
         }
 
-        //Inserir, Aterar e ecluir
+        //Inserir, alterar e excluir
         public object ManipulaDados(CommandType commandType, string minhaUSP)
         {
             try
             {
                 SqlCommand sqlCommand = new SqlCommand();
-                //Chamando a função que preenche a linha de comado
-                sqlCommand = PreencherSqlCommad(commandType, minhaUSP);
+                //Chamando a função que preenche a linha de comando
+                sqlCommand = PreencherSqlCommand(commandType, minhaUSP);
                 //Excutar o comando e pegar o retorno do BD
                 return sqlCommand.ExecuteScalar();
-
             }
             catch (Exception ex)
             {
-
                 throw new Exception(ex.Message);
             }
         }
 
         //Consulta dos registros
-        public DataTable  ExecutaConsulta(CommandType commandType, string minhaUSP)
+        public DataTable ExecutaConsulta(CommandType commandType, string minhaUSP)
         {
             try
             {
-                //Criar e chamar a função que preenche a sqlcommand
-                SqlCommand sqlCommand = PreencherSqlCommad(commandType, minhaUSP);
+                //Cria e chama a função que preenche a sqlcommand
+                SqlCommand sqlCommand = PreencherSqlCommand(commandType, minhaUSP);
                 //Criar um 'adaptador' que 'traduz' o retorno do BD
                 SqlDataAdapter sqlDataAdapter = new SqlDataAdapter(sqlCommand);
                 //Criar uma tabela vazia
                 DataTable dataTable = new DataTable();
                 sqlDataAdapter.Fill(dataTable);
-                //Retorno da Stored procedure
+                //Retorno da Stored Procedure
                 return dataTable;
-
-
             }
             catch (Exception ex)
             {
-
                 throw new Exception(ex.Message);
             }
         }

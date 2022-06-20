@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{48C304D8-8BE8-4D83-860C-F50E447024B6}</ProjectGuid>
+    <ProjectGuid>{C11CCC81-1A0C-4313-991E-F511AB0AE418}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Negocios</RootNamespace>
-    <AssemblyName>Negocios</AssemblyName>
+    <RootNamespace>ObjetoTransferencia</RootNamespace>
+    <AssemblyName>ObjetoTransferencia</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -41,18 +41,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ClienteNegocios.cs" />
+    <Compile Include="Cliente.cs" />
+    <Compile Include="ClienteColecao.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\AcessoBancoDados\AcessoBancoDados.csproj">
-      <Project>{6236af49-a1ce-4acd-9562-d0f71e99efbf}</Project>
-      <Name>AcessoBancoDados</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\ObjetoTransferencia\ObjetoTransferencia.csproj">
-      <Project>{c11ccc81-1a0c-4313-991e-f511ab0ae418}</Project>
-      <Name>ObjetoTransferencia</Name>
-    </ProjectReference>
+    <Compile Include="Telefone.cs" />
+    <Compile Include="TelefoneColecao.cs" />
+    <Compile Include="TelefoneTipo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

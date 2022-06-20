@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{66DBA2E5-CEEC-414F-A7CA-94F9A958CD59}</ProjectGuid>
+    <ProjectGuid>{6236AF49-A1CE-4ACD-9562-D0F71E99EFBF}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>AcessoBancoDados</RootNamespace>
